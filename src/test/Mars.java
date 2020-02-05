@@ -11,5 +11,8 @@ public class Mars {
 		
 		System.out.println();
 >>>>>>> Stashed changes
+
+//this is change in master branch
+
 	}
 }
